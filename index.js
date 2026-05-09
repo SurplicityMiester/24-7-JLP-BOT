@@ -29,7 +29,7 @@ const manager = new Manager({
     }
   });
 
-  client.once('clientReady', async (c) => {
+  client.once('ready', async (c) => {
   console.log(`Logged in as ${client.user.tag}`); // Fix: backticks for template literal
   manager.init(c.user.id);
   

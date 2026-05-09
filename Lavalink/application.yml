@@ -14,3 +14,18 @@ logging:
     root: WARN
     lavalink: INFO
     dev.arbjerg.lavalink: INFO
+
+
+logback:
+    rollingpolicy:
+      max-history: 1
+
+logging:
+  level:
+    root: WARN
+    lavalink: INFO
+    dev.arbjerg.lavalink: INFO
+    io.netty: ERROR
+    reactor.netty: ERROR
+    org.springframework: ERROR
+    com.sedmelluq: WARN
