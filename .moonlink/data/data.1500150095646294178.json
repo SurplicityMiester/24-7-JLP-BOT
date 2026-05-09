@@ -1,0 +1,2386 @@
+{
+  "data": {
+    "nodes": {
+      "b90272ba3136627cbd1fc55bba8d7e5fe4d1b47eb6c3e569002fdf9ff5dcde00": {
+        "sessionId": "7qdqjgcbb0sbb5vr"
+      }
+    },
+    "players": {
+      "1454999856438448255": {
+        "guildId": "1454999856438448255",
+        "voiceChannelId": "1454999857197486206",
+        "textChannelId": null,
+        "autoPlay": true,
+        "queue": [
+          {
+            "encoded": "QAAAmQMAOVdoZW4gQmxhY2tzIERpc2NyaW1pbmF0ZSBBZ2FpbnN0IEJsYWNrcyB8IEFyY2hpdmUgNy8xMy8xNAAEQk9ORAAAAAAAOC7QAAtXWHN1Z2lhWXRUcwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVdYc3VnaWFZdFRzAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAoAMAQFdoYXQgRG9lcyBJdCBNZWFuOiBXZSBBcmUgdGhlIEJyaWRlIG9mIENocmlzdD8gfCBBcmNoaXZlIDYvMjkvMTQABEJPTkQAAAAAADh88AALT3NGVVFjWk1KZVUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Pc0ZVUWNaTUplVQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkwMAM0hvdyBEbyBZb3UgQ2xlYW5zZSBCb2R5IGFuZCBTb3VsPyB8IEFyY2hpdmUgNi8yMi8xNAAEQk9ORAAAAAAAOR0YAAtzWG1sa0hwQU9CawABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXNYbWxrSHBBT0JrAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkwMAM1JlY29nbml6aW5nIHRoZSBEZWNlcHRpb24gb2YgRXZpbCB8IEFyY2hpdmUgNi8xNS8xNAAEQk9ORAAAAAAAOGWAAAtZQVozZ2k1VkpxcwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVlBWjNnaTVWSnFzAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAowMAQ1NhdGFuJ3MgRGVjZXB0aW9uOiAnV2h5IEJvdGhlcj8nIChQYXJ0aWFsIFNlcnZpY2UpIHwgQXJjaGl2ZSA2LzgvMTQABEJPTkQAAAAAACfi8AALUFlpdUVqMC1qQ1UAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1QWWl1RWowLWpDVQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAigMAKldoYXQgQXJlIFlvdSBMb29raW5nIEZvcj8gfCBBcmNoaXZlIDYvMS8xNAAEQk9ORAAAAAAAOAuoAAtpSTI3RDE1cWw5MAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlJMjdEMTVxbDkwAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARlRoZXkgV2hvIFRha2UgV2lzZG9tIFdpbGwgSHVuZ2VyIGFuZCBUaGlyc3QgZm9yIE1vcmUgfCBBcmNoaXZlIDUvMjUvMTQABEJPTkQAAAAAADUdqAALQjY4eUd1ZGdqU1kAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1CNjh5R3VkZ2pTWQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAigMAKlNob3VsZCBDaHJpc3RpYW5zIEp1ZGdlPyB8IEFyY2hpdmUgNS8xOC8xNAAEQk9ORAAAAAAAOCroAAt1UWFpRUxBUk0xWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXVRYWlFTEFSTTFZAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOVdoYXQgSXMgdGhlIFB1cnBvc2Ugb2YgdGhlIEhvbHkgU3Bpcml0PyB8IEFyY2hpdmUgNS8xMS8xNAAEQk9ORAAAAAAAOEooAAs2NlRuZjlNb010TQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTY2VG5mOU1vTXRNAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARlN0YXkgSHVuZ3J5IGZvciBHb2Q6IFJlZCBCZWx0IE1pbmRzZXQgKERhdmUgQW5kZXJzb24pIHwgQXJjaGl2ZSA1LzQvMTQABEJPTkQAAAAAADf4IAALZUlRMUNob1QwM2MAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lSVExQ2hvVDAzYwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhQMAJURvIFlvdSBIYXZlIFdpc2RvbT8gfCBBcmNoaXZlIDQvMjAvMTQABEJPTkQAAAAAADgTeAALVEhvd3JzVzhVanMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1USG93cnNXOFVqcwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmwMAO1doeSBEbyBXZSBGYWxsIGludG8gVGVtcHRhdGlvbiBTbyBFYXNpbHk/IHwgQXJjaGl2ZSA0LzEzLzE0AARCT05EAAAAAAA4D5AAC245ZGZCMzFQZkhnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bjlkZkIzMVBmSGcAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOURvIFlvdSBSZWpvaWNlIGluIHRoZSBMb3JkIGF0IEFsbCBUaW1lcz8gfCBBcmNoaXZlIDQvNi8xNAAEQk9ORAAAAAAAOB8wAAs0NFZHaDE2ODhyOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTQ0VkdoMTY4OHI4AAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhwMAJ0RvIFlvdSBMb3ZlIFlvdXJzZWxmPyB8IEFyY2hpdmUgMy8zMC8xNAAEQk9ORAAAAAAAOBtIAAtxMDZLTkVFSVN2ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXEwNktORUVJU3ZnAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmwMAO1NwaW5lbGVzcyBDaHJpc3RpYW5zIERvbid0IERlYWwgd2l0aCBFdmlsIHwgQXJjaGl2ZSAzLzIzLzE0AARCT05EAAAAAAA4XbAAC3dyVVgwQnJkYnZjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d3JVWDBCcmRidmMAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhwMAJ0RvIFlvdSBMYWNrIFBhdGllbmNlPyB8IEFyY2hpdmUgMy8xNi8xNAAEQk9ORAAAAAAAOBN4AAtPOEs2MWlzemZJMAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU84SzYxaXN6ZkkwAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARllvdSdyZSB0aGUgTGlnaHQgb2YgdGhlIFdvcmxkLCBCdXQgSXQncyBBbGwgQWJvdXQgWW91IHwgQXJjaGl2ZSAzLzkvMTQABEJPTkQAAAAAADhdsAALS0dONENveTFRcjgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1LR040Q295MVFyOAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmAMAOFdobyBBcmUgdGhlIFdvbHZlcyBpbiBTaGVlcCdzIENsb3RoaW5nPyB8IEFyY2hpdmUgMy8yLzE0AARCT05EAAAAAAA34LAAC1N6dHFnSVVOeUk0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9U3p0cWdJVU55STQAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkQMAMVRoZSBOdW1iZXIgT25lIEVuZW15IG9mIE1hbmtpbmQgfCBBcmNoaXZlIDIvMjMvMTQABEJPTkQAAAAAADgLqAALTHltMUFnbUhmd0kAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1MeW0xQWdtSGZ3SQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAjQMALUFjY2VwdGluZyBHb2QncyBDaGFzdGlzZW1lbnQgfCBBcmNoaXZlIDIvOS8xNAAEQk9ORAAAAAAAN/BQAAtaYWNxdDBjdkoxOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVphY3F0MGN2SjE4AAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOU9uZSBNaXNzaW5nIEluZ3JlZGllbnQgaW4gTWVuIGFuZCBXb21lbiB8IEFyY2hpdmUgMS8xOS8xNAAEQk9ORAAAAAAAOKfoAAtvNzZjRjd4cFN4ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW83NmNGN3hwU3hnAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARkRvIFlvdSBMb3ZlIEdvZCB3aXRoIEFsbCBZb3VyIEhlYXJ0LCBTb3VsIGFuZCBNaWdodD8gfCBBcmNoaXZlIDEvMTIvMTQABEJPTkQAAAAAADjO+AALdGJ3UTExWUNOYkkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj10YndRMTFZQ05iSQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhAMAJEhvdyBEbyBZb3UgU2VlIEdvZD8gfCBBcmNoaXZlIDEvNS8xNAAEQk9ORAAAAAAAOUgQAAtRVkJhQXc3Ykc3bwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVFWQmFBdzdiRzdvAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkQMAMVJlbmV3aW5nIFlvdXIgTWluZCBmcm9tIFdpdGhpbiB8IEFyY2hpdmUgMTIvMjIvMTMABEJPTkQAAAAAADjemAALdkY4bnFmTVpsRDgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj12RjhucWZNWmxEOAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkAMAMFRha2UgTm8gVGhvdWdodCBmb3IgWW91ciBMaWZlIHwgQXJjaGl2ZSAxMi8xNS8xMwAEQk9ORAAAAAAAOCMYAAtDMjd0S2hMd0t2cwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUMyN3RLaEx3S3ZzAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAgwMAI0EgV2VkZGluZyBhdCBCT05EIHwgQXJjaGl2ZSAxMi84LzEzAARCT05EAAAAAAAyZlgAC29lNHhYLVM1V3NZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9b2U0eFgtUzVXc1kAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmAMAOE5vIENvbXBhc3Npb24gaW4gRmFtaWxpZXMgb3IgdGhlIFdvcmxkIHwgQXJjaGl2ZSAxMi8xLzEzAARCT05EAAAAAAA4hMAAC3prWlk4blpYa2hRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9emtaWThuWlhraFEAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAjAMALFlvdSBDYW4ndCBDaGFuZ2UgWW91cnNlbGYgfCBBcmNoaXZlIDExLzI0LzEzAARCT05EAAAAAAA4oBgAC0JDU1NKUGdpSi1FAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QkNTU0pQZ2lKLUUAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApAMARERvIFlvdSBPZmZlciBZb3VyIEJvZHkgYSBMaXZpbmcgU2FjcmlmaWNlIHRvIEdvZD8gKEFyY2hpdmUgMTEvMTcvMTMpAARCT05EAAAAAAA4NqAAC28zRzh2N1VTMUhRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bzNHOHY3VVMxSFEAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAnwMAP0Rvbid0IFRyeSB0byBDaGFuZ2UgWW91cnNlbGYuIFNlZWsgRmlyc3QgdGhlIEtpbmdkb20gb2YgSGVhdmVuLgAEQk9ORAAAAAAACYGYAAtmVXZVZ1MtYjZtbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWZVdlVnUy1iNm1vAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARkFyZSBZb3UgQnJpbmdpbmcgSGVhdmVuIG9uIEVhcnRoLCBvciBIZWxsIG9uIEVhcnRoPyAoQXJjaGl2ZSAxMS8xMC8xMykABEJPTkQAAAAAADgq6AALcHcyR2FCNG9ZaFUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1wdzJHYUI0b1loVQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApAMARFdoYXQncyB0aGUgUHVycG9zZSBvZiBCZWxpZXZpbmcgaW4gSGVhdmVuIG9yIEhlbGw/IChBcmNoaXZlIDExLzMvMTMpAARCT05EAAAAAAA32OAAC3drVzlzZXVxRl9nAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d2tXOXNldXFGX2cAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARkp1ZGdpbmcgWW91ciBGZWxsb3dtYW4gd2l0aCB0aGUgJ0tub3dsZWRnZSBvZiBHb29kJyAoQXJjaGl2ZSAxMC8yNy8xMykABEJPTkQAAAAAADf4IAALOVNXb21RRktGSzQAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05U1dvbVFGS0ZLNAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOVdoYXQgRG8gWW91IFVzZSB0byBDb3ZlciBVcCBZb3VyIFBhaW4/ICgxMC8yMC8xMyBBcmNoaXZlKQAEQk9ORAAAAAAAOCcAAAtmc3NvY2ZPcHROdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWZzc29jZk9wdE53AAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAoQMAQUZvcmdpdmVuZXNzOiBIb3cgRG8gWW91IEdvIGZyb20gQWdyZWVpbmcgdG8gQmVsaWV2aW5nPyAoMTAvMTMvMTMpAARCT05EAAAAAAA39DgAC05SZVRRLWxOa1pBAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TlJlVFEtbE5rWkEAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAnwMAP1dobyBEbyBZb3UgV2FudCB0byBCZT8gJ01vcmUgVGhhbiBDb25xdWVyb3JzJyAoQXJjaGl2ZSAxMC82LzEzKQAEQk9ORAAAAAAAN7HQAAtXV0Vydi15dVIyUQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVdXRXJ2LXl1UjJRAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkgMAMkRvIFlvdSBLbm93IFdoZW4gWW91J3JlIEp1ZGdpbmc/IChBcmNoaXZlIDkvMjkvMTMpAARCT05EAAAAAAA3V/gAC1hmTk1HbFkySi1ZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WGZOTUdsWTJKLVkAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlgMANkhvdyBEaWQgWW91IEJlY29tZSBhIEZlYXJmdWwgUGVyc29uPyAoQXJjaGl2ZSA5LzIyLzEzKQAEQk9ORAAAAAAAN9jgAAs5bjZJX2JWOVRlRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTluNklfYlY5VGVFAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkQMAMVRoZSBOYXJyb3cgR2F0ZSwgTWF0dC4gNzogMTMtMTQgKEFyY2hpdmUgOS8xNS8xMykABEJPTkQAAAAAADe1uAALZUxtNkZsMktWUEkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lTG02RmwyS1ZQSQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAqAMASERvIFlvdSBLbm93IFdobyBZb3UgQXJlPyBEb2VzIEdvZCBBbnN3ZXIgWW91ciBQcmF5ZXJzPyAoQXJjaGl2ZSA4LzI1LzEzKQAEQk9ORAAAAAAANtcQAAt6MzhfbjdwN3FDUQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXozOF9uN3A3cUNRAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkQMAMVdoYXQgSXMgdGhlIFRob3JuIGluIFlvdXIgU2lkZT8gKEFyY2hpdmUgOC8xOC8xMykABEJPTkQAAAAAADfNKAALQmNERGhWZTB1N2MAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1CY0REaFZlMHU3YwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAsAMAUENocmlzdCBTYWlkIGluIE9yZGVyIHRvIExpdmUgWW91IE11c3QgRGllLiBIb3cgRG8gWW91IERvIFRoYXQ/IChBcmNoaXZlIDgvMTEvMTMpAARCT05EAAAAAAA30RAAC0VUaWo0a19Kd2RRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RVRpajRrX0p3ZFEAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAwwMAYzgvNC8xMyBBcmUgWW91IGEgUGVyc29uIFdobyBNYWtlcyBUaGluZ3MgSGFwcGVuLCBBbGxvd3MgVGhpbmdzIHRvIEhhcHBlbiwgb3IgV2F0Y2hlcyBUaGluZ3MgSGFwcGVuPwAEQk9ORAAAAAAAN9EQAAthd0ZfczVkd0tvRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWF3Rl9zNWR3S29FAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAgAMAIDA3LzI4LzEzIEZlYXIgYW5kIExvdmUgKEFyY2hpdmUpAARCT05EAAAAAAA3//AAC1RHenQwcC03SC1JAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VEd6dDBwLTdILUkAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAnwMAPzA3LzIxLzEzIFRoZSBHZW9yZ2UgWmltbWVybWFuIENhc2UgV2FzIE5vdCBBYm91dCBSYWNlIChBcmNoaXZlKQAEQk9ORAAAAAAAN9EQAAtCVmlqZTMwNEpmSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUJWaWplMzA0SmZJAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARjA3LzA3LzEzIEFyZSBZb3UgV2lsbGluZyB0byBTdXJyZW5kZXIgTG92ZSBvZiBUaG91Z2h0IGZvciBMb3ZlIG9mIEdvZD8ABEJPTkQAAAAAADfFWAALaGUyX1JwbmxEbk0AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1oZTJfUnBubERuTQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlAMANDA2LzMwLzEzIFRoZSBPbmUgVGhpbmcgdGhlIE1pbmQgRmVhcnMgTW9zdCAoQXJjaGl2ZSkABEJPTkQAAAAAADfY4AALT2taZTlieVlad00AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Pa1plOWJ5WVp3TQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAngMAPjA2LzIzLzEzIFdoYXQgQXJlIFRoZXNlIFdvbWVuIERvaW5nIHRvIHRoZSBDaGlsZHJlbj8gKEFyY2hpdmUpAARCT05EAAAAAAA3Z5gACzFxc3BaZWhkZS1zAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MXFzcFplaGRlLXMAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAnAMAPDA2LzA5LzEzIFJvbWFucyA4OiAxLTE3IOKAkyBUaGUgTGlmZSBvZiB0aGUgU3Bpcml0IChBcmNoaXZlKQAEQk9ORAAAAAAAN72IAAstNGdpa01kSEtkSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PS00Z2lrTWRIS2RJAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApQMARTA2LzAyLzEzIC0gMSBUaGVzcy4gNToxNywgJ1ByYXkgV2l0aG91dCBDZWFzaW5nLicgSG93IERvIFlvdSBEbyBUaGF0PwAEQk9ORAAAAAAAN8VYAAsxU3lGU0ZXa1d5WQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTFTeUZTRldrV3lZAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAArAMATDA1LzI2LzEzIEV4b2R1cyAzOjE0IEdvZCBzYWlkLCAnSSBBTSBUSEFUIEkgQU0uJyBXaGF0IERpZCBIZSBNZWFuPyAoQXJjaGl2ZSkABEJPTkQAAAAAADfBcAALb2owbnNtcnNsWjgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1vajBuc21yc2xaOAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARjA1LzE5LzEzIElzIFRoZXJlIGEgRGlmZmVyZW5jZSBCZXR3ZWVuIEJlaW5nIFRlbXB0ZWQgYW5kIEJlaW5nIFRlc3RlZD8ABEJPTkQAAAAAADfY4AALOXowQjRFcXloZGMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05ejBCNEVxeWhkYwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAArQMATTA1LzEyLzEzIEpvaG4gMzo1LTgg4oCTIFlvdSBNdXN0IEJlIEJvcm4gQWdhaW4gb2YgdGhlIFNwaXJpdCBvZiBHb2QgKEFyY2hpdmUpAARCT05EAAAAAAA3yUAAC3dQYi1DajRpRFVVAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d1BiLUNqNGlEVVUAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAArAMATDA1LzA1LzEzIFRoZSBTZWNvbmQgRW1hbmNpcGF0aW9uIFByb2NsYW1hdGlvbiBGcmVlaW5nIFdoaXRlIFBlb3BsZSAoQXJjaGl2ZSkABEJPTkQAAAAAADfJQAALSkc4OHo3M0I3WlEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1KRzg4ejczQjdaUQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApgMARjA0LzI4LzEzIEtlZXAgWW91ciBMb2lucyBHaXJkZWQgYW5kIFlvdXIgTGFtcCBCdXJuaW5nIChMdWtlIDEyOiAzNC00MCkABEJPTkQAAAAAADSJOAALblowTVEtbGVpdVUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1uWjBNUS1sZWl1VQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlwMANzA0LzIxLzEzIERlYWxpbmcgd2l0aCBIYXJkc2hpcCAoQXJjaGl2ZSBTdW5kYXkgU2VydmljZSkABEJPTkQAAAAAADfsaAALZFJvVFVNMGlPbjQAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUm9UVU0waU9uNAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAqAMASDA0LzE0LzEzIEJlIERvZXJzIG9mIHRoZSBXb3JkIGFuZCBOb3QgSnVzdCBIZWFyZXJzIG9mIHRoZSBXb3JkIChBcmNoaXZlKQAEQk9ORAAAAAAAN8VYAAtUWmhCemZSaVZjSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVRaaEJ6ZlJpVmNJAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAoAMAQDA0LzA3LzEzIEZhaXRoIENhbm5vdCBCZSBMb3N0LCBCdXQgSXQgQ2FuIEJlIEZvcmdvdHRlbiAoQXJjaGl2ZSkABEJPTkQAAAAAADfREAALcHJhWXZqOFU5LUEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1wcmFZdmo4VTktQQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlgMANjAzLzMxLzEzIEhvdyBEaWQgSmVzdXMnIERlYXRoIFNhdmUgVXM/IChFYXN0ZXIgU3VuZGF5KQAEQk9ORAAAAAAAN5Z4AAs1RHJTWUNaU0o0bwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTVEclNZQ1pTSjRvAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkQMAMTAzLzI0LzEzIFdoeSBEbyBZb3UgTWFrZSBCYWQgRGVjaXNpb25zPyAoQXJjaGl2ZSkABEJPTkQAAAAAADeqAAALWDdnRFBTUFJ1czQAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1YN2dEUFNQUnVzNAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlQMANTAzLzE3LzEzIEFyZSBZb3UgYSBHb29kIFRlYW0gUGxheWVyPyBQYXJ0IDIgKEFyY2hpdmUpAARCT05EAAAAAAA38FAAC2ZNUmZzVmI2eTdZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Zk1SZnNWYjZ5N1kAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAjgMALjAzLzEwLzEzIEFyZSBZb3UgYSBHb29kIFRlYW0gUGxheWVyPyAoQXJjaGl2ZSkABEJPTkQAAAAAADfJQAALVmRHNnlzbUI5SFUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1WZEc2eXNtQjlIVQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAqQMASTAzLzAzLzEzIEZpZ2h0aW5nIGZvciBGcmVlZG9tIGFuZCBSZWNvZ25pemluZyB0aGUgU3Bpcml0IG9mIENocmlzdCBXaXRoaW4ABEJPTkQAAAAAADd3OAALV2o5ZXJPWGZWdDAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Xajllck9YZlZ0MAAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAiQMAKTAyLzE3LzEzIEFyZSBZb3UgYSBHb29kIExlYWRlcj8gKEFyY2hpdmUpAARCT05EAAAAAAA23uAAC05KQ25sT2RzRG1NAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TkpDbmxPZHNEbU0AAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlgMANjAyLzEwLzEzIEEgRGlzY3Vzc2lvbiBBYm91dCBKZXN1cyBhbmQgU3RyZXNzIChBcmNoaXZlKQAEQk9ORAAAAAAANvZQAAszZTBkUzUxT2dtSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTNlMGRTNTFPZ21JAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlwMANzAxLzI3LzEzIERvIFlvdSBCZWxpZXZlIGluIEdvZCBvciBHb3Zlcm5tZW50PyAoQXJjaGl2ZSkABEJPTkQAAAAAADfY4AALcTFveWdxdmo0bXcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1xMW95Z3F2ajRtdwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAoAMAQDAxLzIwLzEzIFRoZSBQb3dlciBvZiBMb3ZlIGFuZCBNYXJ0aW4gTHV0aGVyIEtpbmcsIEpyLiAoQXJjaGl2ZSkABEJPTkQAAAAAADfY4AALd2JjSDl5TXlYc2MAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13YmNIOXlNeVhzYwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApwMARzAxLzEzLzEzIFdoeSBBcmUgQ2hyaXN0aWFucyBBbGxvd2luZyBFdmlsIHRvIENoYW5nZSB0aGUgTGF3cz8gKEFyY2hpdmUpAARCT05EAAAAAAA3vYgAC1hqYnVHQWE0QXNrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WGpidUdBYTRBc2sAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAngMAPjAxLzA2LzEzIFRoZSBSZW5ld2luZyBvZiBZb3VyIE1pbmQgZnJvbSBXaXRoaW4gLSBSb21hbnMgMTI6MS0yAARCT05EAAAAAAA3zSgAC25YaU8tN05aOC1vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9blhpTy03Tlo4LW8AAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlQMANTEyLzMwLzEyIFdoYXQgSXMgWW91ciBBdHRpdHVkZSBUb3dhcmQgTGlmZT8gKEFyY2hpdmUpAARCT05EAAAAAAA3zSgAC0prNnlXb3JYNEI4AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Sms2eVdvclg0QjgAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOTEyLzIzLzEyIENhbiBHb29kIEZpbmQgQ29tbW9uIEdyb3VuZCB3aXRoIEV2aWw/IChBcmNoaXZlKQAEQk9ORAAAAAAANtMoAAtwdjE2LTEtdnVPSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXB2MTYtMS12dU9JAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAogMAQjEyLzE2LzEyIFNhbmR5IEhvb2sgU2Nob29sIFNob290aW5nIGFuZCB0aGUgUmlzZSBvZiBFdmlsIChBcmNoaXZlKQAEQk9ORAAAAAAAN80oAAtfMmZTUl96OG5EbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PV8yZlNSX3o4bkRvAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAiwMAKzEyLzAyLzEyIEFzayBKZXNzZSAoQXJjaGl2ZSBTdW5kYXkgU2VydmljZSkABEJPTkQAAAAAADemGAALbUowRVVDXzhjSE0AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1tSjBFVUNfOGNITQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          }
+        ],
+        "current": {
+          "encoded": "QAAAggMAIkRvIFlvdSBGZWFyIEdvZD8gfCBBcmNoaXZlIDcvMjAvMTQABEJPTkQAAAAAADh1IAALeWdGV1pyMWQwcWsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj15Z0ZXWnIxZDBxawAAAAd5b3V0dWJlAAAAAAAAAAA=",
+          "requester": {
+            "guildId": "1454999856438448255",
+            "premiumSinceTimestamp": null,
+            "nickname": null,
+            "pending": false,
+            "communicationDisabledUntilTimestamp": null,
+            "userId": "1500150095646294178",
+            "avatar": null,
+            "banner": null,
+            "joinedTimestamp": 1777734397322,
+            "flags": 0,
+            "avatarDecorationData": null,
+            "displayName": "24/7 JLP Bot",
+            "roles": [
+              "1454999856438448255",
+              "1500151534191775825"
+            ],
+            "avatarURL": null,
+            "bannerURL": null,
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+            "avatarDecorationURL": null
+          },
+          "position": 2944920
+        },
+        "playing": true,
+        "paused": false,
+        "previous": [
+          {
+            "encoded": "QAAApAMAREhvdyBQYXJlbnRzIFRyYW5zZmVyIFRoZWlyIEFuZ2VyIHRvIFRoZWlyIENoaWxkcmVuIHwgQXJjaGl2ZSA3LTI1LTEwAARCT05EAAAAAAA1gzgAC1hTUTlHbW9GMHE4AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFNROUdtb0YwcTgAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhQMAJVRoZSBFZmZlY3Qgb2YgV29yZHMgfCBBcmNoaXZlIDcvMTEvMTAABEJPTkQAAAAAADK8SAALWUx0YjFnMGdqOXMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZTHRiMWcwZ2o5cwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOVdlYWsgTWVuIFNlcGFyYXRlZCBmcm9tIEZhdGhlcnMgKEF1ZGlvKSB8IEFyY2hpdmUgMTAvNC8xNQAEQk9ORAAAAAAAM5cIAAstVmRfRnpUb0h5UQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PS1WZF9GelRvSHlRAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAhgMAJlRoZSBTcGlyaXQgb2YgRGVjZWl0IHwgQXJjaGl2ZSA2LzI3LzEwAARCT05EAAAAAAA3mmAAC01Hd1F1M2d3RHhjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TUd3UXUzZ3dEeGMAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAnAMAPFdoYXQncyB0aGUgUHVycG9zZSBvZiBIYXZpbmcgRmFpdGggaW4gR29kPyB8IEFyY2hpdmUgOS8yMS8xNAAEQk9ORAAAAAAAOCMYAAsyTWd4MUdRYTJZYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTJNZ3gxR1FhMlljAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAjwMAL1doYXQgSXMgdGhlIFB1cnBvc2Ugb2YgRmFpdGg/IHwgQXJjaGl2ZSA5LzE0LzE0AARCT05EAAAAAAA5S/gAC2VKWXBLOUlHUFVzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZUpZcEs5SUdQVXMAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmgMAOkFyZSBDaHJpc3RpYW5zIFdpbm5pbmcgdGhlIFNwaXJpdHVhbCBXYXI/IHwgQXJjaGl2ZSA5LzcvMTQABEJPTkQAAAAAADjemAALdnBhdVEyZlNJSGMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj12cGF1UTJmU0lIYwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkwMAM0JsaW5kLCBBbmdyeSwgYW5kIERyaXZlbiBieSBTYXRhbiB8IEFyY2hpdmUgOC8yNC8xNAAEQk9ORAAAAAAAOWdQAAtJeVlMaVZiUEtCNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUl5WUxpVmJQS0I0AAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAkgMAMkRvIFlvdSBCZWxpZXZlIGluIHRoZSBFbmQgVGltZXM/IHwgQXJjaGl2ZSA3LzI3LzE0AARCT05EAAAAAAA5LLgAC3JrZEtua1E0ZjFNAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cmtkS25rUTRmMU0AAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAjgMALlRoZSBEZWF0aCBvZiBUcnV0aCBpbiBBbWVyaWNhIHwgQXJjaGl2ZSA4LzMvMTQABEJPTkQAAAAAADmSSAALdmtUSTRrbXNoZ0UAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj12a1RJNGttc2hnRQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1454999856438448255",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777734397322,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1454999856438448255",
+                "1500151534191775825"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          }
+        ]
+      },
+      "1466468233602273437": {
+        "guildId": "1466468233602273437",
+        "voiceChannelId": "1499298156209242202",
+        "textChannelId": null,
+        "autoPlay": true,
+        "queue": [],
+        "current": null,
+        "playing": false,
+        "paused": false,
+        "previous": [
+          {
+            "encoded": "QAAAjgMALjAzLzEwLzEzIEFyZSBZb3UgYSBHb29kIFRlYW0gUGxheWVyPyAoQXJjaGl2ZSkABEJPTkQAAAAAADfJQAALVmRHNnlzbUI5SFUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1WZEc2eXNtQjlIVQAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAiQMAKTAyLzE3LzEzIEFyZSBZb3UgYSBHb29kIExlYWRlcj8gKEFyY2hpdmUpAARCT05EAAAAAAA23uAAC05KQ25sT2RzRG1NAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TkpDbmxPZHNEbU0AAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlwMANzAxLzI3LzEzIERvIFlvdSBCZWxpZXZlIGluIEdvZCBvciBHb3Zlcm5tZW50PyAoQXJjaGl2ZSkABEJPTkQAAAAAADfY4AALcTFveWdxdmo0bXcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1xMW95Z3F2ajRtdwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlgMANjAyLzEwLzEzIEEgRGlzY3Vzc2lvbiBBYm91dCBKZXN1cyBhbmQgU3RyZXNzIChBcmNoaXZlKQAEQk9ORAAAAAAANvZQAAszZTBkUzUxT2dtSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTNlMGRTNTFPZ21JAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAoAMAQDAxLzIwLzEzIFRoZSBQb3dlciBvZiBMb3ZlIGFuZCBNYXJ0aW4gTHV0aGVyIEtpbmcsIEpyLiAoQXJjaGl2ZSkABEJPTkQAAAAAADfY4AALd2JjSDl5TXlYc2MAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13YmNIOXlNeVhzYwAAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAApwMARzAxLzEzLzEzIFdoeSBBcmUgQ2hyaXN0aWFucyBBbGxvd2luZyBFdmlsIHRvIENoYW5nZSB0aGUgTGF3cz8gKEFyY2hpdmUpAARCT05EAAAAAAA3vYgAC1hqYnVHQWE0QXNrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WGpidUdBYTRBc2sAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAngMAPjAxLzA2LzEzIFRoZSBSZW5ld2luZyBvZiBZb3VyIE1pbmQgZnJvbSBXaXRoaW4gLSBSb21hbnMgMTI6MS0yAARCT05EAAAAAAA3zSgAC25YaU8tN05aOC1vAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9blhpTy03Tlo4LW8AAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAlQMANTEyLzMwLzEyIFdoYXQgSXMgWW91ciBBdHRpdHVkZSBUb3dhcmQgTGlmZT8gKEFyY2hpdmUpAARCT05EAAAAAAA3zSgAC0prNnlXb3JYNEI4AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Sms2eVdvclg0QjgAAAAHeW91dHViZQAAAAAAAAAA",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAogMAQjEyLzE2LzEyIFNhbmR5IEhvb2sgU2Nob29sIFNob290aW5nIGFuZCB0aGUgUmlzZSBvZiBFdmlsIChBcmNoaXZlKQAEQk9ORAAAAAAAN80oAAtfMmZTUl96OG5EbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PV8yZlNSX3o4bkRvAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          },
+          {
+            "encoded": "QAAAmQMAOTEyLzIzLzEyIENhbiBHb29kIEZpbmQgQ29tbW9uIEdyb3VuZCB3aXRoIEV2aWw/IChBcmNoaXZlKQAEQk9ORAAAAAAANtMoAAtwdjE2LTEtdnVPSQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXB2MTYtMS12dU9JAAAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "requester": {
+              "guildId": "1466468233602273437",
+              "premiumSinceTimestamp": null,
+              "nickname": null,
+              "pending": false,
+              "communicationDisabledUntilTimestamp": null,
+              "userId": "1500150095646294178",
+              "avatar": null,
+              "banner": null,
+              "joinedTimestamp": 1777747027063,
+              "flags": 0,
+              "avatarDecorationData": null,
+              "displayName": "24/7 JLP Bot",
+              "roles": [
+                "1466468233602273437",
+                "1500204506888016005"
+              ],
+              "avatarURL": null,
+              "bannerURL": null,
+              "displayAvatarURL": "https://cdn.discordapp.com/avatars/1500150095646294178/7d9b1f1c2895d46d6ea24961e4e9f6c6.webp",
+              "avatarDecorationURL": null
+            }
+          }
+        ]
+      }
+    }
+  }
+}

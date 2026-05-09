@@ -1,0 +1,21 @@
+server:
+  port: 2333
+  address: 0.0.0.0
+
+lavalink:
+  server:
+    password: "youshallnotpass"
+    sources:
+      youtube: false      # ← disable built-in, use plugin instead
+
+plugins:
+  lavasrc:
+    providers:
+      - "ytsearch:\"%ISRC%\""
+      - "ytsearch:%QUERY%"
+    sources:
+      youtube: true
+      spotify: false
+      applemusic: false
+
+pluginsDir: "./plugins"
