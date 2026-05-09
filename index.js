@@ -45,9 +45,9 @@ client.on('raw', (d) => manager.packetUpdate(d)); // different method name in mo
 
 async function play(channel) {
 
-     console.log('Manager nodes type:', typeof manager.nodes);
-  console.log('Manager nodes:', JSON.stringify(manager.nodes));
-  console.log('Manager keys:', Object.keys(manager));
+  const nodes = manager.nodes
+  console.log('NodeManager keys:', Object.keys(nodes))
+  console.log('NodeManager prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(nodes)))
 
     const player = manager.players.create({
       guildId: channel.guild.id,        // ← "guildId" not "guild"
