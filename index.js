@@ -44,6 +44,14 @@ const manager = new Manager({
 client.on('raw', (d) => manager.packetUpdate(d)); // different method name in moonlink
 
 async function play(channel) {
+
+    console.log('Nodes available:', manager.nodes.size)
+  console.log('Node states:', [...manager.nodes.values()].map(n => ({
+    host: n.host,
+    connected: n.connected,
+    state: n.state
+  })))
+  
     const player = manager.players.create({
       guildId: channel.guild.id,        // ← "guildId" not "guild"
       voiceChannelId: channel.id,       // ← "voiceChannelId" not "voiceChannel"
