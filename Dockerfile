@@ -1,7 +1,7 @@
 FROM eclipse-temurin:17-jdk
 
 # Install Node.js
-RUN apt-get update && apt-get install -y curl && \
+RUN apt-get update && apt-get install -y curl wget && \
     curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs
 
