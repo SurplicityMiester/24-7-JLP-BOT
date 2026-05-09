@@ -3,7 +3,7 @@ const { Manager } = require('moonlink.js');
 
 // Store your token in a .env file: TOKEN=your_token_here
 // Run with: node -r dotenv/config bot.js
-const TOKEN = 'MTUwMDE1MDA5NTY0NjI5NDE3OA.G7_9mO.yhictsfWEPySbZ6TI5tNMJKrQ1LM4zneMOGkeA';
+const TOKEN = process.env.DISCORD_TOKEN;
 
 const client = new Client({
     intents: [

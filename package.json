@@ -12,6 +12,7 @@
   "dependencies": {
     "@discordjs/voice": "^0.19.2",
     "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
     "erela": "^1.11.2",
     "moonlink.js": "^5.2.0",
     "youtube-sr": "^4.3.12",
