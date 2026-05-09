@@ -45,13 +45,10 @@ client.on('raw', (d) => manager.packetUpdate(d)); // different method name in mo
 
 async function play(channel) {
 
-    console.log('Nodes available:', manager.nodes.size)
-  console.log('Node states:', [...manager.nodes.values()].map(n => ({
-    host: n.host,
-    connected: n.connected,
-    state: n.state
-  })))
-  
+     console.log('Manager nodes type:', typeof manager.nodes);
+  console.log('Manager nodes:', JSON.stringify(manager.nodes));
+  console.log('Manager keys:', Object.keys(manager));
+
     const player = manager.players.create({
       guildId: channel.guild.id,        // ← "guildId" not "guild"
       voiceChannelId: channel.id,       // ← "voiceChannelId" not "voiceChannel"
