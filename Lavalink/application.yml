@@ -6,13 +6,11 @@ lavalink:
   server:
     password: "youshallnotpass"
     sources:
-      youtube: false        # ← disable built-in YouTube
+      youtube: true
+      soundcloud: true
 
-plugins:
-  youtube:
-    enabled: true
-    allowSearch: true
-    allowDirectVideoIds: true
-    allowDirectPlaylistIds: true
-
-pluginsDir: "./plugins"
+logging:
+  level:
+    root: WARN
+    lavalink: INFO
+    dev.arbjerg.lavalink: INFO

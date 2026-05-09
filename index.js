@@ -22,7 +22,7 @@ const manager = new Manager({
         secure: false
       }
     ],
-    clientName: 'your-bot',
+    clientName: 'JLP bot',
     send: (id, payload) => {
       const guild = client.guilds.cache.get(id);
       if (guild) guild.shard.send(payload);
