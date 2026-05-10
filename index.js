@@ -23,9 +23,9 @@ const manager = new Manager({
       }
     ],
     clientName: 'JLP bot',
-    sendPayload: (guildId, payload) => {        // ← Manager option: sendPayload ✓
+    send: (guildId, payload) => {        // ← back to "send"
       const guild = client.guilds.cache.get(guildId);
-      if (guild) guild.shard.send(JSON.parse(payload))  // ← discord.js method: send ✓
+      if (guild) guild.shard.send(payload)  // ← no JSON.parse needed either
     }
   });
 
