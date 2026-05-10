@@ -8,12 +8,12 @@ lavalink:
     sources:
       youtube: true
       soundcloud: true
+      twitch: true
 
 logging:
   level:
     root: WARN
     lavalink: INFO
-    dev.arbjerg.lavalink: INFO
 
 
 logback:
