@@ -9,8 +9,8 @@ fi
 
 mkdir -p /app/plugins
 
-# Force re-download plugins on this deploy  ← ADD THIS HERE
 rm -f /app/plugins/*.jar
+
 
 if [ ! -f /app/plugins/lavasrc-plugin.jar ]; then
   echo "Downloading LavaSrc plugin..."
