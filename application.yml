@@ -8,7 +8,6 @@ lavalink:
     sources:
       youtube: false
       soundcloud: true
-      twitch: true
 
 plugins:
   youtube:
@@ -17,9 +16,12 @@ plugins:
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
     clients:
-      - ANDROID_TESTSUITE
       - MUSIC
+      - ANDROID_TESTSUITE
       - ANDROID
+      - WEB
+
+
   lavasrc:
     providers:
       - "ytmsearch:\"%ISRC%\""

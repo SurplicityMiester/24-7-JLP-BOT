@@ -59,8 +59,8 @@ async function play(channel) {
 
   await player.connect()
 
- const res = await manager.search({
-  query: 'https://music.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
+const res = await manager.search({
+  query: 'https://www.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
   requester: channel.guild.members.me
 })
 
