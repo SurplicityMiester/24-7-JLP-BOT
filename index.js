@@ -61,8 +61,7 @@ async function play(channel) {
 
  const res = await manager.search({
   query: 'https://music.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
-  requester: channel.guild.members.me,
-  source: 'ytmsearch'
+  requester: channel.guild.members.me
 })
 
   if (res.loadType === 'playlist') {

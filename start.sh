@@ -25,6 +25,9 @@ fi
 echo "Plugins present:"
 ls -lh /app/plugins/
 
+echo "Plugin files:"
+ls -lh /app/plugins/
+
 echo "Starting Lavalink..."
 java -jar /app/Lavalink.jar &
 LAVA_PID=$!

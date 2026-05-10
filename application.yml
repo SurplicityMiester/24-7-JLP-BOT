@@ -17,10 +17,9 @@ plugins:
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
     clients:
-      - MUSIC
-      - ANDROID_MUSIC
-      - TVHTML5EMBEDDED
       - ANDROID_TESTSUITE
+      - MUSIC
+      - ANDROID
   lavasrc:
     providers:
       - "ytmsearch:\"%ISRC%\""
