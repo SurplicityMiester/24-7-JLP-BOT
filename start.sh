@@ -19,7 +19,7 @@ fi
 
 if [ ! -f /app/plugins/youtube-plugin.jar ]; then
   echo "Downloading YouTube Source plugin..."
-  wget -O /app/plugins/youtube-plugin.jar https://github.com/lavalink-devs/youtube-source/releases/download/1.11.4/youtube-plugin-1.11.4.jar
+  wget -O /app/plugins/youtube-plugin.jar https://github.com/lavalink-devs/youtube-source/releases/download/1.13.0/youtube-plugin-1.13.0.jar
 fi
 
 echo "Plugins present:"

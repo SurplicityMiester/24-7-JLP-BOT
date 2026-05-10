@@ -18,8 +18,9 @@ plugins:
     allowDirectPlaylistIds: true
     clients:
       - MUSIC
+      - ANDROID_MUSIC
+      - TVHTML5EMBEDDED
       - ANDROID_TESTSUITE
-      - WEB
   lavasrc:
     providers:
       - "ytmsearch:\"%ISRC%\""
@@ -28,7 +29,6 @@ plugins:
     sources:
       youtube: true
       youtubeMusic: true
-
 logging:
   level:
     root: WARN
