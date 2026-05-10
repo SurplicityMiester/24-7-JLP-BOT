@@ -6,20 +6,24 @@ lavalink:
   server:
     password: "youshallnotpass"
     sources:
-      youtube: true
+      youtube: false      # ← disable built-in YouTube, use plugin instead
       soundcloud: true
       twitch: true
 
-logback:
-    rollingpolicy:
-      max-history: 1
+plugins:
+  lavasrc:
+    providers:
+      - "ytsearch:\"%ISRC%\""
+      - "ytsearch:%QUERY%"
+      - "ytmsearch:%QUERY%"
+    sources:
+      youtube: true
+      youtubeMusic: true
 
 logging:
   level:
     root: WARN
     lavalink: INFO
-    dev.arbjerg.lavalink: INFO
     io.netty: ERROR
     reactor.netty: ERROR
     org.springframework: ERROR
-    com.sedmelluq: WARN
