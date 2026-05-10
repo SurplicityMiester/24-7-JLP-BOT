@@ -62,7 +62,7 @@ async function play(channel) {
  const res = await manager.search({
   query: 'https://music.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
   requester: channel.guild.members.me,
-  source: 'ytmsearch'    // tell Lavalink it's a YouTube Music URL
+  source: 'ytmsearch'
 })
 
   if (res.loadType === 'playlist') {
