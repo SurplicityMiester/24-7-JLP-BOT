@@ -14,20 +14,20 @@ const client = new Client({
   });
 
 const manager = new Manager({
-  nodes: [
-    {
-      host: 'localhost',
-      port: 2333,
-      password: 'youshallnotpass',
-      secure: false
+    nodes: [
+      {
+        host: 'localhost',
+        port: 2333,
+        password: 'youshallnotpass',
+        secure: false
+      }
+    ],
+    clientName: 'JLP bot',
+    sendPayload: (guildId, payload) => {        // ← was "send", now "sendPayload"
+      const guild = client.guilds.cache.get(guildId);
+      if (guild) guild.shard.sendPayload(JSON.parse(payload))  // ← payload is a string in v5, parse it first
     }
-  ],
-  clientName: 'JLP bot',
-  sendPayload: (guildId, payload) => {        // ← v5 uses sendPayload not send
-    const guild = client.guilds.cache.get(guildId);
-    if (guild) guild.shard.send(JSON.parse(payload));  // ← v5 passes a string, needs parsing
-  }
-});
+  });
 
 manager.on('nodeError', (node, err) => {
   console.error('nodeError host:', node.host)
