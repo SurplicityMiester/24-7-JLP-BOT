@@ -6,16 +6,25 @@ lavalink:
   server:
     password: "youshallnotpass"
     sources:
-      youtube: false      # ← disable built-in YouTube, use plugin instead
+      youtube: false
       soundcloud: true
       twitch: true
 
 plugins:
+  youtube:
+    enabled: true
+    allowSearch: true
+    allowDirectVideoIds: true
+    allowDirectPlaylistIds: true
+    clients:
+      - MUSIC
+      - ANDROID_TESTSUITE
+      - WEB
   lavasrc:
     providers:
-      - "ytsearch:\"%ISRC%\""
-      - "ytsearch:%QUERY%"
+      - "ytmsearch:\"%ISRC%\""
       - "ytmsearch:%QUERY%"
+      - "ytsearch:%QUERY%"
     sources:
       youtube: true
       youtubeMusic: true
