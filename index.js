@@ -29,6 +29,11 @@ const manager = new Manager({
     }
   });
 
+  manager.on('nodeConnect', (node) => console.log('nodeConnect fired:', node.host))
+manager.on('nodeReady', (node) => console.log('nodeReady fired:', node.host))
+manager.on('nodeError', (node, err) => console.error('nodeError fired:', node.host, err.message))
+manager.on('nodeDisconnect', (node) => console.warn('nodeDisconnect fired:', node.host))
+
   client.once('ready', async (c) => {
   console.log(`Logged in as ${client.user.tag}`); // Fix: backticks for template literal
   manager.init(c.user.id);
@@ -45,10 +50,14 @@ client.on('raw', (d) => manager.packetUpdate(d)); // different method name in mo
 
 async function play(channel) {
 
-  const nodes = manager.nodes
-  console.log('NodeManager keys:', Object.keys(nodes))
-  console.log('NodeManager prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(nodes)))
+  console.log('hasOnlineNodes:', manager.nodes.hasOnlineNodes)
+  console.log('hasReady:', manager.nodes.hasReady)
+  console.log('onlineNodes:', manager.nodes.onlineNodes)
 
+  if (!manager.nodes.hasOnlineNodes) {
+    console.error('No online nodes — Lavalink is not connected')
+    return
+  }
     const player = manager.players.create({
       guildId: channel.guild.id,        // ← "guildId" not "guild"
       voiceChannelId: channel.id,       // ← "voiceChannelId" not "voiceChannel"
