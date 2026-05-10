@@ -11,7 +11,17 @@ echo "Starting Lavalink..."
 java -jar /app/Lavalink.jar &
 
 echo "Waiting for Lavalink to be ready..."
-sleep 20
+for i in $(seq 1 30); do
+  if nc -z localhost 2333 2>/dev/null; then
+    echo "Lavalink is accepting connections after ${i} checks"
+    break
+  fi
+  echo "Check $i: not ready yet..."
+  sleep 2
+done
+
+echo "Extra buffer..."
+sleep 5
 
 echo "Starting bot..."
 node index.js

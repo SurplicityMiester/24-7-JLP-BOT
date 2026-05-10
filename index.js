@@ -29,10 +29,13 @@ const manager = new Manager({
   }
 });
 
-  manager.on('nodeConnect', (node) => console.log('nodeConnect fired:', node.host))
-manager.on('nodeReady', (node) => console.log('nodeReady fired:', node.host))
-manager.on('nodeError', (node, err) => console.error('nodeError fired:', node.host, err.message))
-manager.on('nodeDisconnect', (node) => console.warn('nodeDisconnect fired:', node.host))
+manager.on('nodeError', (node, err) => {
+  console.error('nodeError host:', node.host)
+  console.error('nodeError full:', err)
+  console.error('nodeError message:', err?.message)
+  console.error('nodeError cause:', err?.cause)
+  console.error('nodeError code:', err?.code)
+})
 
  client.once('clientReady', async (c) => {
   console.log(`Logged in as ${c.user.tag}`)
