@@ -36,7 +36,7 @@ manager.on('nodeDisconnect', (node) => console.warn('nodeDisconnect fired:', nod
 
  client.once('clientReady', async (c) => {
   console.log(`Logged in as ${c.user.tag}`)
-  await manager.init(c)                       // ← v5 takes the full client not just the ID
+  await manager.init(c.user.id)              // ← pass the ID string, not the whole client
   console.log('Manager initialized')
 
   await client.application.commands.create({
