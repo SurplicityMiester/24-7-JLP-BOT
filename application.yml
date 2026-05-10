@@ -10,12 +10,6 @@ lavalink:
       soundcloud: true
       twitch: true
 
-logging:
-  level:
-    root: WARN
-    lavalink: INFO
-
-
 logback:
     rollingpolicy:
       max-history: 1

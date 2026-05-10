@@ -8,12 +8,12 @@ if [ ! -f /app/Lavalink.jar ]; then
 fi
 
 echo "Starting Lavalink..."
-java -jar /app/Lavalink.jar &
+java -jar /app/Lavalink.jar 2>&1 | tee /tmp/lavalink.log &
 
-echo "Waiting for Lavalink to be ready..."
+echo "Waiting for Lavalink..."
 for i in $(seq 1 30); do
   if nc -z localhost 2333 2>/dev/null; then
-    echo "Lavalink is accepting connections after ${i} checks"
+    echo "Lavalink ready after ${i} checks"
     break
   fi
   echo "Check $i: not ready yet..."
