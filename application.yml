@@ -15,13 +15,11 @@ plugins:
     allowSearch: true
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
+    visitorData: "CgtVaktKN0ZUS0ZOSSi8-4DQBjIKCgJVUxIEGgAgMmLfAgrcAjE4LllUPW9KUHJ0dFV4dlNVa2"
     clients:
-      - MUSIC
-      - ANDROID_TESTSUITE
-      - ANDROID
       - WEB
-
-
+      - ANDROID_TESTSUITE
+      - MUSIC
   lavasrc:
     providers:
       - "ytmsearch:\"%ISRC%\""
