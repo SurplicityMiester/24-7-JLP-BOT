@@ -14,76 +14,67 @@ const client = new Client({
   });
 
 const manager = new Manager({
-    nodes: [                          // ← must be under a "nodes" key
-      {
-        host: 'localhost',
-        port: 2333,
-        password: 'youshallnotpass',
-        secure: false
-      }
-    ],
-    clientName: 'JLP bot',
-    send: (id, payload) => {
-      const guild = client.guilds.cache.get(id);
-      if (guild) guild.shard.send(payload);
+  nodes: [
+    {
+      host: 'localhost',
+      port: 2333,
+      password: 'youshallnotpass',
+      secure: false
     }
-  });
+  ],
+  clientName: 'JLP bot',
+  sendPayload: (guildId, payload) => {        // ← v5 uses sendPayload not send
+    const guild = client.guilds.cache.get(guildId);
+    if (guild) guild.shard.send(JSON.parse(payload));  // ← v5 passes a string, needs parsing
+  }
+});
 
   manager.on('nodeConnect', (node) => console.log('nodeConnect fired:', node.host))
 manager.on('nodeReady', (node) => console.log('nodeReady fired:', node.host))
 manager.on('nodeError', (node, err) => console.error('nodeError fired:', node.host, err.message))
 manager.on('nodeDisconnect', (node) => console.warn('nodeDisconnect fired:', node.host))
 
-  client.once('ready', async (c) => {
-  console.log(`Logged in as ${client.user.tag}`); // Fix: backticks for template literal
-  manager.init(c.user.id);
-  
-  // Fix: register slash command inside the single ready handler
-  
+ client.once('clientReady', async (c) => {
+  console.log(`Logged in as ${c.user.tag}`)
+  await manager.init(c)                       // ← v5 takes the full client not just the ID
+  console.log('Manager initialized')
+
   await client.application.commands.create({
     name: 'join',
     description: 'Join your voice channel and play the playlist'
-  });
-});
-
+  })
+})
 client.on('raw', (d) => manager.packetUpdate(d)); // different method name in moonlink
 
 async function play(channel) {
+  const player = await manager.players.create({    // ← v5 create is async
+    guildId: channel.guild.id,
+    voiceChannelId: channel.id,
+    textChannelId: null,
+    autoPlay: true
+  })
 
-  console.log('hasOnlineNodes:', manager.nodes.hasOnlineNodes)
-  console.log('hasReady:', manager.nodes.hasReady)
-  console.log('onlineNodes:', manager.nodes.onlineNodes)
+  await player.connect()
 
-  if (!manager.nodes.hasOnlineNodes) {
-    console.error('No online nodes — Lavalink is not connected')
+  const res = await manager.search(
+    'https://music.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
+    channel.guild.members.me                       // ← v5 search takes query then requester directly
+  )
+
+  if (res.loadType === 'playlist') {
+    for (const track of res.tracks) {
+      player.queue.add(track)                      // ← v5 add one at a time
+    }
+    console.log(`Loaded ${res.tracks.length} tracks`)
+  } else {
+    console.log('Failed to load, loadType was:', res.loadType)
     return
   }
-    const player = manager.players.create({
-      guildId: channel.guild.id,        // ← "guildId" not "guild"
-      voiceChannelId: channel.id,       // ← "voiceChannelId" not "voiceChannel"
-      textChannelId: null,
-      autoPlay: true
-    });
-  
-    await player.connect();
-  
-    const res = await manager.search({
-      query: 'https://music.youtube.com/playlist?list=PLVqjzIOc_QoNYs7rgye3uaXkmziRdj8mU',
-      requester: channel.guild.members.me
-    });
-  
-    if (res.loadType === 'playlist') {   // ← v4 uses lowercase
-      player.queue.add(res.tracks);
-      console.log(`Loaded ${res.tracks.length} tracks`);
-    } else {
-      console.log('Failed to load playlist, loadType was:', res.loadType);
-      return;
-    }
-  
-    if (!player.playing && !player.paused) {
-      player.play();
-    }
+
+  if (!player.playing && !player.paused) {
+    await player.play()
   }
+}
 
 client.on('interactionCreate', async (interaction) => {
   if (!interaction.isChatInputCommand()) return;
