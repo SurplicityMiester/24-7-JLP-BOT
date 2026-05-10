@@ -99,17 +99,23 @@ client.on('interactionCreate', async (interaction) => {
   }
 });
 
-manager.on('trackEnd', (player) => {
+manager.on('trackEnd', (player, track, payload) => {
+  if (payload?.reason === 'replaced') return
   if (player.queue.size > 0) {
-    player.play();
+    player.play()
+  } else {
+    console.log('Queue finished, destroying player')
+    player.destroy()
   }
-});
+})
 
-// Added: handle track errors so the bot doesn't silently stall
 manager.on('trackError', (player, track, payload) => {
-  console.error(`Track error on "${track.title}":`, payload.exception);
+  console.error(`Track error on "${track.title}":`, payload?.exception)
   if (player.queue.size > 0) {
-    player.play(); // skip to next track
+    player.play()
+  } else {
+    console.log('Queue empty after error, destroying player')
+    player.destroy()
   }
 });
 
